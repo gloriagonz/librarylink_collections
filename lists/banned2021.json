@@ -1,0 +1,82 @@
+{
+ "label": "Top 10 Most Challenged Books of 2021",
+ "description": "Celebrate your freedom to read by enjoying these challenged books. This list was created using data from the American Library Association's Office for Intellectual Freedom.",
+ "list": [
+ 	{
+       "label": "Gender Queer",
+       "isbns": [
+        "9781549304002",
+        "9781637150726",
+        "9788467940473",
+        "9781663609120",
+        "9782203245969",
+        "9781549307515",
+        "9781713701057",
+        "9782203224322"
+       ]
+  },
+   	{
+       "label": "Lawn Boy",
+       "isbns": [
+        "",
+        ""
+       ]
+  },
+  {
+       "label": "All Boys Aren’t Blue",
+       "isbns": [
+        "",
+        ""
+       ]
+  },
+  {
+       "label": "Out of Darkness",
+       "isbns": [
+        "",
+        ""
+       ]
+  },
+    {
+       "label": "The Hate U Give",
+       "isbns": [
+        "",
+        ""
+       ]
+  },
+  {
+       "label": "The Absolutely True Diary of a Part-Time Indian",
+       "isbns": [
+        "",
+        ""
+       ]
+  },
+  {
+       "label": "Me and Earl and the Dying Girl",
+       "isbns": [
+        "",
+        ""
+       ]
+  },
+    {
+       "label": "The Bluest Eye",
+       "isbns": [
+        "",
+        ""
+       ]
+  },
+  {
+       "label": "This Book is Gay",
+       "isbns": [
+        "",
+        ""
+       ]
+  },
+  {
+       "label": "Beyond Magenta",
+       "isbns": [
+        "",
+        ""
+       ]
+  }
+  ]
+}
